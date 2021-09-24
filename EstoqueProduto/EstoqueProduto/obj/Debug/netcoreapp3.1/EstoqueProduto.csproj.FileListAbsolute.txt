@@ -1,0 +1,14 @@
+C:\Users\augustoargolo\source\repos\EstoqueProduto\EstoqueProduto\bin\Debug\netcoreapp3.1\EstoqueProduto.exe
+C:\Users\augustoargolo\source\repos\EstoqueProduto\EstoqueProduto\bin\Debug\netcoreapp3.1\EstoqueProduto.deps.json
+C:\Users\augustoargolo\source\repos\EstoqueProduto\EstoqueProduto\bin\Debug\netcoreapp3.1\EstoqueProduto.runtimeconfig.json
+C:\Users\augustoargolo\source\repos\EstoqueProduto\EstoqueProduto\bin\Debug\netcoreapp3.1\EstoqueProduto.runtimeconfig.dev.json
+C:\Users\augustoargolo\source\repos\EstoqueProduto\EstoqueProduto\bin\Debug\netcoreapp3.1\EstoqueProduto.dll
+C:\Users\augustoargolo\source\repos\EstoqueProduto\EstoqueProduto\bin\Debug\netcoreapp3.1\EstoqueProduto.pdb
+C:\Users\augustoargolo\source\repos\EstoqueProduto\EstoqueProduto\obj\Debug\netcoreapp3.1\EstoqueProduto.csproj.AssemblyReference.cache
+C:\Users\augustoargolo\source\repos\EstoqueProduto\EstoqueProduto\obj\Debug\netcoreapp3.1\EstoqueProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\augustoargolo\source\repos\EstoqueProduto\EstoqueProduto\obj\Debug\netcoreapp3.1\EstoqueProduto.AssemblyInfoInputs.cache
+C:\Users\augustoargolo\source\repos\EstoqueProduto\EstoqueProduto\obj\Debug\netcoreapp3.1\EstoqueProduto.AssemblyInfo.cs
+C:\Users\augustoargolo\source\repos\EstoqueProduto\EstoqueProduto\obj\Debug\netcoreapp3.1\EstoqueProduto.csproj.CoreCompileInputs.cache
+C:\Users\augustoargolo\source\repos\EstoqueProduto\EstoqueProduto\obj\Debug\netcoreapp3.1\EstoqueProduto.dll
+C:\Users\augustoargolo\source\repos\EstoqueProduto\EstoqueProduto\obj\Debug\netcoreapp3.1\EstoqueProduto.pdb
+C:\Users\augustoargolo\source\repos\EstoqueProduto\EstoqueProduto\obj\Debug\netcoreapp3.1\EstoqueProduto.genruntimeconfig.cache
