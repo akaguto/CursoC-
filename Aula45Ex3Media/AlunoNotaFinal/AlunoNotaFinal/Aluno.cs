@@ -23,5 +23,7 @@ namespace AlunoNotaFinal
             }
             else return $"NOTA FINAL = {NotaFinal().ToString("F2", CultureInfo.InvariantCulture)} \nREPROVADO!\nFALTARAM {(60.00 - NotaFinal()).ToString(CultureInfo.InvariantCulture)} PONTOS";
         }
+
+
     }
 }
