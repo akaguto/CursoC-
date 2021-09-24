@@ -1,0 +1,14 @@
+C:\CursoDotNet\CursoC-\Aula45Ex2Salario\AlunoNotaFinal\AlunoNotaFinal\bin\Debug\netcoreapp3.1\AlunoNotaFinal.exe
+C:\CursoDotNet\CursoC-\Aula45Ex2Salario\AlunoNotaFinal\AlunoNotaFinal\bin\Debug\netcoreapp3.1\AlunoNotaFinal.deps.json
+C:\CursoDotNet\CursoC-\Aula45Ex2Salario\AlunoNotaFinal\AlunoNotaFinal\bin\Debug\netcoreapp3.1\AlunoNotaFinal.runtimeconfig.json
+C:\CursoDotNet\CursoC-\Aula45Ex2Salario\AlunoNotaFinal\AlunoNotaFinal\bin\Debug\netcoreapp3.1\AlunoNotaFinal.runtimeconfig.dev.json
+C:\CursoDotNet\CursoC-\Aula45Ex2Salario\AlunoNotaFinal\AlunoNotaFinal\bin\Debug\netcoreapp3.1\AlunoNotaFinal.dll
+C:\CursoDotNet\CursoC-\Aula45Ex2Salario\AlunoNotaFinal\AlunoNotaFinal\bin\Debug\netcoreapp3.1\AlunoNotaFinal.pdb
+C:\CursoDotNet\CursoC-\Aula45Ex2Salario\AlunoNotaFinal\AlunoNotaFinal\obj\Debug\netcoreapp3.1\AlunoNotaFinal.csproj.AssemblyReference.cache
+C:\CursoDotNet\CursoC-\Aula45Ex2Salario\AlunoNotaFinal\AlunoNotaFinal\obj\Debug\netcoreapp3.1\AlunoNotaFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoDotNet\CursoC-\Aula45Ex2Salario\AlunoNotaFinal\AlunoNotaFinal\obj\Debug\netcoreapp3.1\AlunoNotaFinal.AssemblyInfoInputs.cache
+C:\CursoDotNet\CursoC-\Aula45Ex2Salario\AlunoNotaFinal\AlunoNotaFinal\obj\Debug\netcoreapp3.1\AlunoNotaFinal.AssemblyInfo.cs
+C:\CursoDotNet\CursoC-\Aula45Ex2Salario\AlunoNotaFinal\AlunoNotaFinal\obj\Debug\netcoreapp3.1\AlunoNotaFinal.csproj.CoreCompileInputs.cache
+C:\CursoDotNet\CursoC-\Aula45Ex2Salario\AlunoNotaFinal\AlunoNotaFinal\obj\Debug\netcoreapp3.1\AlunoNotaFinal.dll
+C:\CursoDotNet\CursoC-\Aula45Ex2Salario\AlunoNotaFinal\AlunoNotaFinal\obj\Debug\netcoreapp3.1\AlunoNotaFinal.pdb
+C:\CursoDotNet\CursoC-\Aula45Ex2Salario\AlunoNotaFinal\AlunoNotaFinal\obj\Debug\netcoreapp3.1\AlunoNotaFinal.genruntimeconfig.cache
