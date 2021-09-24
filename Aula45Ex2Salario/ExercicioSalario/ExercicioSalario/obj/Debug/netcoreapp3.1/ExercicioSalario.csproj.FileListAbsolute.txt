@@ -1,0 +1,14 @@
+C:\CursoDotNet\CursoC-\Aula45Ex2Salario\ExercicioSalario\ExercicioSalario\bin\Debug\netcoreapp3.1\ExercicioSalario.exe
+C:\CursoDotNet\CursoC-\Aula45Ex2Salario\ExercicioSalario\ExercicioSalario\bin\Debug\netcoreapp3.1\ExercicioSalario.deps.json
+C:\CursoDotNet\CursoC-\Aula45Ex2Salario\ExercicioSalario\ExercicioSalario\bin\Debug\netcoreapp3.1\ExercicioSalario.runtimeconfig.json
+C:\CursoDotNet\CursoC-\Aula45Ex2Salario\ExercicioSalario\ExercicioSalario\bin\Debug\netcoreapp3.1\ExercicioSalario.runtimeconfig.dev.json
+C:\CursoDotNet\CursoC-\Aula45Ex2Salario\ExercicioSalario\ExercicioSalario\bin\Debug\netcoreapp3.1\ExercicioSalario.dll
+C:\CursoDotNet\CursoC-\Aula45Ex2Salario\ExercicioSalario\ExercicioSalario\bin\Debug\netcoreapp3.1\ExercicioSalario.pdb
+C:\CursoDotNet\CursoC-\Aula45Ex2Salario\ExercicioSalario\ExercicioSalario\obj\Debug\netcoreapp3.1\ExercicioSalario.csproj.AssemblyReference.cache
+C:\CursoDotNet\CursoC-\Aula45Ex2Salario\ExercicioSalario\ExercicioSalario\obj\Debug\netcoreapp3.1\ExercicioSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoDotNet\CursoC-\Aula45Ex2Salario\ExercicioSalario\ExercicioSalario\obj\Debug\netcoreapp3.1\ExercicioSalario.AssemblyInfoInputs.cache
+C:\CursoDotNet\CursoC-\Aula45Ex2Salario\ExercicioSalario\ExercicioSalario\obj\Debug\netcoreapp3.1\ExercicioSalario.AssemblyInfo.cs
+C:\CursoDotNet\CursoC-\Aula45Ex2Salario\ExercicioSalario\ExercicioSalario\obj\Debug\netcoreapp3.1\ExercicioSalario.csproj.CoreCompileInputs.cache
+C:\CursoDotNet\CursoC-\Aula45Ex2Salario\ExercicioSalario\ExercicioSalario\obj\Debug\netcoreapp3.1\ExercicioSalario.dll
+C:\CursoDotNet\CursoC-\Aula45Ex2Salario\ExercicioSalario\ExercicioSalario\obj\Debug\netcoreapp3.1\ExercicioSalario.pdb
+C:\CursoDotNet\CursoC-\Aula45Ex2Salario\ExercicioSalario\ExercicioSalario\obj\Debug\netcoreapp3.1\ExercicioSalario.genruntimeconfig.cache
