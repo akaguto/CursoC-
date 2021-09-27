@@ -1,0 +1,14 @@
+C:\CursoDotNet\CursoC-\Aula48ExStaticCotacao\Cotacao\Cotacao\obj\Debug\netcoreapp3.1\Cotacao.csproj.AssemblyReference.cache
+C:\CursoDotNet\CursoC-\Aula48ExStaticCotacao\Cotacao\Cotacao\obj\Debug\netcoreapp3.1\Cotacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoDotNet\CursoC-\Aula48ExStaticCotacao\Cotacao\Cotacao\obj\Debug\netcoreapp3.1\Cotacao.AssemblyInfoInputs.cache
+C:\CursoDotNet\CursoC-\Aula48ExStaticCotacao\Cotacao\Cotacao\obj\Debug\netcoreapp3.1\Cotacao.AssemblyInfo.cs
+C:\CursoDotNet\CursoC-\Aula48ExStaticCotacao\Cotacao\Cotacao\obj\Debug\netcoreapp3.1\Cotacao.csproj.CoreCompileInputs.cache
+C:\CursoDotNet\CursoC-\Aula48ExStaticCotacao\Cotacao\Cotacao\bin\Debug\netcoreapp3.1\Cotacao.exe
+C:\CursoDotNet\CursoC-\Aula48ExStaticCotacao\Cotacao\Cotacao\bin\Debug\netcoreapp3.1\Cotacao.deps.json
+C:\CursoDotNet\CursoC-\Aula48ExStaticCotacao\Cotacao\Cotacao\bin\Debug\netcoreapp3.1\Cotacao.runtimeconfig.json
+C:\CursoDotNet\CursoC-\Aula48ExStaticCotacao\Cotacao\Cotacao\bin\Debug\netcoreapp3.1\Cotacao.runtimeconfig.dev.json
+C:\CursoDotNet\CursoC-\Aula48ExStaticCotacao\Cotacao\Cotacao\bin\Debug\netcoreapp3.1\Cotacao.dll
+C:\CursoDotNet\CursoC-\Aula48ExStaticCotacao\Cotacao\Cotacao\bin\Debug\netcoreapp3.1\Cotacao.pdb
+C:\CursoDotNet\CursoC-\Aula48ExStaticCotacao\Cotacao\Cotacao\obj\Debug\netcoreapp3.1\Cotacao.dll
+C:\CursoDotNet\CursoC-\Aula48ExStaticCotacao\Cotacao\Cotacao\obj\Debug\netcoreapp3.1\Cotacao.pdb
+C:\CursoDotNet\CursoC-\Aula48ExStaticCotacao\Cotacao\Cotacao\obj\Debug\netcoreapp3.1\Cotacao.genruntimeconfig.cache
