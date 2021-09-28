@@ -9,7 +9,7 @@ namespace Cotacao
         {
             double total;
             double qtComprar;
-            Console.Write("Quantos dolares voce vai comprar: ");
+            Console.Write("Quantos dolares voce vai comprar:");
             qtComprar = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             total = Cotacao.Conversao(qtComprar);

@@ -6,10 +6,8 @@ namespace EstoqueProduto
     class Program
     {
         static void Main(string[] args)
-        {
-            
-            
-            
+        {          
+               
             Console.WriteLine("Digite o nome do produto: ");
             string nome = Console.ReadLine();
             Console.WriteLine("Digite o preco do produto: ");

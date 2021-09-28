@@ -36,7 +36,6 @@ namespace EstoqueProduto
 
             }
         }
-
        
         public double ValorTotalEstoque()
         {
@@ -64,7 +63,5 @@ namespace EstoqueProduto
                 + " unidades, Total: $ "
                 + ValorTotalEstoque().ToString("F2", CultureInfo.InvariantCulture);
         }
-
-
     }
 }
