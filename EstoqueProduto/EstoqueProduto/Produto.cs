@@ -7,10 +7,37 @@ namespace EstoqueProduto
 {
     class Produto
     {
-        public string Nome;
-        public double Preco;
-        public int QtEstoque;
+        private string _nome;
+        public double Preco { get; private set; }
+        public int QtEstoque { get; private set; }
 
+        public Produto(string nome, double preco, int qtEstoque)
+        {
+            _nome = nome;
+            Preco = preco;
+            QtEstoque = qtEstoque;
+        }
+
+        public Produto(string nome, double preco)
+        {
+            _nome = nome;
+            Preco = preco;
+        }
+
+        public string Nome
+        {
+            get { return _nome; }
+            set
+            {
+                if (value != null && value.Length > 1)
+                {
+                    _nome = value;
+                }
+
+            }
+        }
+
+       
         public double ValorTotalEstoque()
         {
             return QtEstoque * Preco;
@@ -28,16 +55,16 @@ namespace EstoqueProduto
 
         public override string ToString()
         {
-            return "Dados do Produto: " 
-                + Nome 
-                + ", $ " 
-                + Preco.ToString("F2", CultureInfo.InvariantCulture) 
-                +", "
-                + QtEstoque 
-                + " unidades, Total: $ " 
+            return "Dados do Produto: "
+                + _nome
+                + ", $ "
+                + Preco.ToString("F2", CultureInfo.InvariantCulture)
+                + ", "
+                + QtEstoque
+                + " unidades, Total: $ "
                 + ValorTotalEstoque().ToString("F2", CultureInfo.InvariantCulture);
         }
 
- 
+
     }
 }
