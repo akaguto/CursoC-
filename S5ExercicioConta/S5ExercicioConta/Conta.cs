@@ -11,12 +11,15 @@ namespace S5ExercicioConta
         public int NConta { get; private set; }
         public double Saldo { get; private set; }
 
-        public Conta(int numero, string nome, double saldo)
+        public Conta(int numero, string nome)
         {
             NConta = numero;
             Nome = nome;
-            Saldo = saldo;
         }
+        public Conta(int numero, string nome, double depositoInicial) : this(numero, nome)
+        {
+            Deposita(depositoInicial);
+        }      
 
         public void Deposita(double valor)
         {
@@ -25,8 +28,7 @@ namespace S5ExercicioConta
 
         public void Saca(double valor)
         {
-            Saldo -= valor;
-            Saldo -= 5.0;
+            Saldo -= valor + 5.0;            
         }
 
         public override string ToString()

@@ -18,7 +18,7 @@ namespace S5ExercicioConta
             numeroConta = int.Parse(Console.ReadLine());
             Console.Write("Nome do titular: ");
             nome = Console.ReadLine();
-            Console.Write("Haverá depósito inicial: (s/n)?");
+            Console.Write("Haverá depósito inicial: (s/n)? ");
             condicao = char.Parse(Console.ReadLine());
 
             if(condicao == 's' || condicao == 'S')

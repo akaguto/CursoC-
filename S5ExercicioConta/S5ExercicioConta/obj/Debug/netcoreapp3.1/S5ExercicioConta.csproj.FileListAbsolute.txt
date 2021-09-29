@@ -12,3 +12,17 @@ C:\Users\augustoargolo\source\repos\S5ExercicioConta\S5ExercicioConta\obj\Debug\
 C:\Users\augustoargolo\source\repos\S5ExercicioConta\S5ExercicioConta\obj\Debug\netcoreapp3.1\S5ExercicioConta.dll
 C:\Users\augustoargolo\source\repos\S5ExercicioConta\S5ExercicioConta\obj\Debug\netcoreapp3.1\S5ExercicioConta.pdb
 C:\Users\augustoargolo\source\repos\S5ExercicioConta\S5ExercicioConta\obj\Debug\netcoreapp3.1\S5ExercicioConta.genruntimeconfig.cache
+C:\CursoDotNet\CursoC-\S5ExercicioConta\S5ExercicioConta\bin\Debug\netcoreapp3.1\S5ExercicioConta.exe
+C:\CursoDotNet\CursoC-\S5ExercicioConta\S5ExercicioConta\bin\Debug\netcoreapp3.1\S5ExercicioConta.deps.json
+C:\CursoDotNet\CursoC-\S5ExercicioConta\S5ExercicioConta\bin\Debug\netcoreapp3.1\S5ExercicioConta.runtimeconfig.json
+C:\CursoDotNet\CursoC-\S5ExercicioConta\S5ExercicioConta\bin\Debug\netcoreapp3.1\S5ExercicioConta.runtimeconfig.dev.json
+C:\CursoDotNet\CursoC-\S5ExercicioConta\S5ExercicioConta\bin\Debug\netcoreapp3.1\S5ExercicioConta.dll
+C:\CursoDotNet\CursoC-\S5ExercicioConta\S5ExercicioConta\bin\Debug\netcoreapp3.1\S5ExercicioConta.pdb
+C:\CursoDotNet\CursoC-\S5ExercicioConta\S5ExercicioConta\obj\Debug\netcoreapp3.1\S5ExercicioConta.csproj.AssemblyReference.cache
+C:\CursoDotNet\CursoC-\S5ExercicioConta\S5ExercicioConta\obj\Debug\netcoreapp3.1\S5ExercicioConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoDotNet\CursoC-\S5ExercicioConta\S5ExercicioConta\obj\Debug\netcoreapp3.1\S5ExercicioConta.AssemblyInfoInputs.cache
+C:\CursoDotNet\CursoC-\S5ExercicioConta\S5ExercicioConta\obj\Debug\netcoreapp3.1\S5ExercicioConta.AssemblyInfo.cs
+C:\CursoDotNet\CursoC-\S5ExercicioConta\S5ExercicioConta\obj\Debug\netcoreapp3.1\S5ExercicioConta.csproj.CoreCompileInputs.cache
+C:\CursoDotNet\CursoC-\S5ExercicioConta\S5ExercicioConta\obj\Debug\netcoreapp3.1\S5ExercicioConta.dll
+C:\CursoDotNet\CursoC-\S5ExercicioConta\S5ExercicioConta\obj\Debug\netcoreapp3.1\S5ExercicioConta.pdb
+C:\CursoDotNet\CursoC-\S5ExercicioConta\S5ExercicioConta\obj\Debug\netcoreapp3.1\S5ExercicioConta.genruntimeconfig.cache
