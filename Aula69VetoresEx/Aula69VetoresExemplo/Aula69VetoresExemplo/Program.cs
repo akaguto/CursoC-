@@ -25,7 +25,6 @@ namespace Aula69VetoresExemplo
             }
 
             double media = soma / n;
-
             Console.WriteLine("A média das alturas é: " + media);
         }
     }
