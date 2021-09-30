@@ -1,0 +1,14 @@
+C:\CursoDotNet\CursoC-\Aula70VetoresEx\MeuExemploVetores2\MeuExemploVetores2\bin\Debug\netcoreapp3.1\MeuExemploVetores2.exe
+C:\CursoDotNet\CursoC-\Aula70VetoresEx\MeuExemploVetores2\MeuExemploVetores2\bin\Debug\netcoreapp3.1\MeuExemploVetores2.deps.json
+C:\CursoDotNet\CursoC-\Aula70VetoresEx\MeuExemploVetores2\MeuExemploVetores2\bin\Debug\netcoreapp3.1\MeuExemploVetores2.runtimeconfig.json
+C:\CursoDotNet\CursoC-\Aula70VetoresEx\MeuExemploVetores2\MeuExemploVetores2\bin\Debug\netcoreapp3.1\MeuExemploVetores2.runtimeconfig.dev.json
+C:\CursoDotNet\CursoC-\Aula70VetoresEx\MeuExemploVetores2\MeuExemploVetores2\bin\Debug\netcoreapp3.1\MeuExemploVetores2.dll
+C:\CursoDotNet\CursoC-\Aula70VetoresEx\MeuExemploVetores2\MeuExemploVetores2\bin\Debug\netcoreapp3.1\MeuExemploVetores2.pdb
+C:\CursoDotNet\CursoC-\Aula70VetoresEx\MeuExemploVetores2\MeuExemploVetores2\obj\Debug\netcoreapp3.1\MeuExemploVetores2.csproj.AssemblyReference.cache
+C:\CursoDotNet\CursoC-\Aula70VetoresEx\MeuExemploVetores2\MeuExemploVetores2\obj\Debug\netcoreapp3.1\MeuExemploVetores2.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoDotNet\CursoC-\Aula70VetoresEx\MeuExemploVetores2\MeuExemploVetores2\obj\Debug\netcoreapp3.1\MeuExemploVetores2.AssemblyInfoInputs.cache
+C:\CursoDotNet\CursoC-\Aula70VetoresEx\MeuExemploVetores2\MeuExemploVetores2\obj\Debug\netcoreapp3.1\MeuExemploVetores2.AssemblyInfo.cs
+C:\CursoDotNet\CursoC-\Aula70VetoresEx\MeuExemploVetores2\MeuExemploVetores2\obj\Debug\netcoreapp3.1\MeuExemploVetores2.csproj.CoreCompileInputs.cache
+C:\CursoDotNet\CursoC-\Aula70VetoresEx\MeuExemploVetores2\MeuExemploVetores2\obj\Debug\netcoreapp3.1\MeuExemploVetores2.dll
+C:\CursoDotNet\CursoC-\Aula70VetoresEx\MeuExemploVetores2\MeuExemploVetores2\obj\Debug\netcoreapp3.1\MeuExemploVetores2.pdb
+C:\CursoDotNet\CursoC-\Aula70VetoresEx\MeuExemploVetores2\MeuExemploVetores2\obj\Debug\netcoreapp3.1\MeuExemploVetores2.genruntimeconfig.cache
