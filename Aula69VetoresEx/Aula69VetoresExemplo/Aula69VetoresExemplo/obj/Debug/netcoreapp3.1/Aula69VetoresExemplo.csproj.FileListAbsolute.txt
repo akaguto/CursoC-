@@ -1,0 +1,14 @@
+C:\CursoDotNet\CursoC-\Aula69VetoresEx\Aula69VetoresExemplo\Aula69VetoresExemplo\bin\Debug\netcoreapp3.1\Aula69VetoresExemplo.exe
+C:\CursoDotNet\CursoC-\Aula69VetoresEx\Aula69VetoresExemplo\Aula69VetoresExemplo\bin\Debug\netcoreapp3.1\Aula69VetoresExemplo.deps.json
+C:\CursoDotNet\CursoC-\Aula69VetoresEx\Aula69VetoresExemplo\Aula69VetoresExemplo\bin\Debug\netcoreapp3.1\Aula69VetoresExemplo.runtimeconfig.json
+C:\CursoDotNet\CursoC-\Aula69VetoresEx\Aula69VetoresExemplo\Aula69VetoresExemplo\bin\Debug\netcoreapp3.1\Aula69VetoresExemplo.runtimeconfig.dev.json
+C:\CursoDotNet\CursoC-\Aula69VetoresEx\Aula69VetoresExemplo\Aula69VetoresExemplo\bin\Debug\netcoreapp3.1\Aula69VetoresExemplo.dll
+C:\CursoDotNet\CursoC-\Aula69VetoresEx\Aula69VetoresExemplo\Aula69VetoresExemplo\bin\Debug\netcoreapp3.1\Aula69VetoresExemplo.pdb
+C:\CursoDotNet\CursoC-\Aula69VetoresEx\Aula69VetoresExemplo\Aula69VetoresExemplo\obj\Debug\netcoreapp3.1\Aula69VetoresExemplo.csproj.AssemblyReference.cache
+C:\CursoDotNet\CursoC-\Aula69VetoresEx\Aula69VetoresExemplo\Aula69VetoresExemplo\obj\Debug\netcoreapp3.1\Aula69VetoresExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoDotNet\CursoC-\Aula69VetoresEx\Aula69VetoresExemplo\Aula69VetoresExemplo\obj\Debug\netcoreapp3.1\Aula69VetoresExemplo.AssemblyInfoInputs.cache
+C:\CursoDotNet\CursoC-\Aula69VetoresEx\Aula69VetoresExemplo\Aula69VetoresExemplo\obj\Debug\netcoreapp3.1\Aula69VetoresExemplo.AssemblyInfo.cs
+C:\CursoDotNet\CursoC-\Aula69VetoresEx\Aula69VetoresExemplo\Aula69VetoresExemplo\obj\Debug\netcoreapp3.1\Aula69VetoresExemplo.csproj.CoreCompileInputs.cache
+C:\CursoDotNet\CursoC-\Aula69VetoresEx\Aula69VetoresExemplo\Aula69VetoresExemplo\obj\Debug\netcoreapp3.1\Aula69VetoresExemplo.dll
+C:\CursoDotNet\CursoC-\Aula69VetoresEx\Aula69VetoresExemplo\Aula69VetoresExemplo\obj\Debug\netcoreapp3.1\Aula69VetoresExemplo.pdb
+C:\CursoDotNet\CursoC-\Aula69VetoresEx\Aula69VetoresExemplo\Aula69VetoresExemplo\obj\Debug\netcoreapp3.1\Aula69VetoresExemplo.genruntimeconfig.cache
