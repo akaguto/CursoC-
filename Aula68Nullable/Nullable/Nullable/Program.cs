@@ -6,7 +6,7 @@ namespace Nullable
     {
         static void Main(string[] args)
         {
-           
+
             double? x = null;
             double? y = 10.0;
             /*
@@ -27,7 +27,7 @@ namespace Nullable
                             Console.WriteLine("Y is Null");
             */
 
-            double a = x ?? 5; //Define o valor de a como o de x, caso o valor de x seja nulo, define o valor de a como 5.
+            double a = x ?? 5; // Define o valor de a como o de x, caso o valor de x seja nulo, define o valor de a como 5.
             double b = y ?? 5;
 
             Console.WriteLine(a);
