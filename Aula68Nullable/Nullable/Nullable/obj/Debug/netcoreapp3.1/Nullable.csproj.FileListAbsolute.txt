@@ -1,0 +1,14 @@
+C:\CursoDotNet\CursoC-\Aula68Nullable\Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.exe
+C:\CursoDotNet\CursoC-\Aula68Nullable\Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.deps.json
+C:\CursoDotNet\CursoC-\Aula68Nullable\Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.runtimeconfig.json
+C:\CursoDotNet\CursoC-\Aula68Nullable\Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.runtimeconfig.dev.json
+C:\CursoDotNet\CursoC-\Aula68Nullable\Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.dll
+C:\CursoDotNet\CursoC-\Aula68Nullable\Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.pdb
+C:\CursoDotNet\CursoC-\Aula68Nullable\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.csproj.AssemblyReference.cache
+C:\CursoDotNet\CursoC-\Aula68Nullable\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoDotNet\CursoC-\Aula68Nullable\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.AssemblyInfoInputs.cache
+C:\CursoDotNet\CursoC-\Aula68Nullable\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.AssemblyInfo.cs
+C:\CursoDotNet\CursoC-\Aula68Nullable\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.csproj.CoreCompileInputs.cache
+C:\CursoDotNet\CursoC-\Aula68Nullable\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.dll
+C:\CursoDotNet\CursoC-\Aula68Nullable\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.pdb
+C:\CursoDotNet\CursoC-\Aula68Nullable\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.genruntimeconfig.cache
