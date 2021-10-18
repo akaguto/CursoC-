@@ -1,0 +1,14 @@
+C:\CursoDotNet\CursoC-\Aula73ModificadoresDeParametrosRef\Aula73Ref\Aula73Ref\bin\Debug\netcoreapp3.1\Aula73Ref.exe
+C:\CursoDotNet\CursoC-\Aula73ModificadoresDeParametrosRef\Aula73Ref\Aula73Ref\bin\Debug\netcoreapp3.1\Aula73Ref.deps.json
+C:\CursoDotNet\CursoC-\Aula73ModificadoresDeParametrosRef\Aula73Ref\Aula73Ref\bin\Debug\netcoreapp3.1\Aula73Ref.runtimeconfig.json
+C:\CursoDotNet\CursoC-\Aula73ModificadoresDeParametrosRef\Aula73Ref\Aula73Ref\bin\Debug\netcoreapp3.1\Aula73Ref.runtimeconfig.dev.json
+C:\CursoDotNet\CursoC-\Aula73ModificadoresDeParametrosRef\Aula73Ref\Aula73Ref\bin\Debug\netcoreapp3.1\Aula73Ref.dll
+C:\CursoDotNet\CursoC-\Aula73ModificadoresDeParametrosRef\Aula73Ref\Aula73Ref\bin\Debug\netcoreapp3.1\Aula73Ref.pdb
+C:\CursoDotNet\CursoC-\Aula73ModificadoresDeParametrosRef\Aula73Ref\Aula73Ref\obj\Debug\netcoreapp3.1\Aula73Ref.csproj.AssemblyReference.cache
+C:\CursoDotNet\CursoC-\Aula73ModificadoresDeParametrosRef\Aula73Ref\Aula73Ref\obj\Debug\netcoreapp3.1\Aula73Ref.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoDotNet\CursoC-\Aula73ModificadoresDeParametrosRef\Aula73Ref\Aula73Ref\obj\Debug\netcoreapp3.1\Aula73Ref.AssemblyInfoInputs.cache
+C:\CursoDotNet\CursoC-\Aula73ModificadoresDeParametrosRef\Aula73Ref\Aula73Ref\obj\Debug\netcoreapp3.1\Aula73Ref.AssemblyInfo.cs
+C:\CursoDotNet\CursoC-\Aula73ModificadoresDeParametrosRef\Aula73Ref\Aula73Ref\obj\Debug\netcoreapp3.1\Aula73Ref.csproj.CoreCompileInputs.cache
+C:\CursoDotNet\CursoC-\Aula73ModificadoresDeParametrosRef\Aula73Ref\Aula73Ref\obj\Debug\netcoreapp3.1\Aula73Ref.dll
+C:\CursoDotNet\CursoC-\Aula73ModificadoresDeParametrosRef\Aula73Ref\Aula73Ref\obj\Debug\netcoreapp3.1\Aula73Ref.pdb
+C:\CursoDotNet\CursoC-\Aula73ModificadoresDeParametrosRef\Aula73Ref\Aula73Ref\obj\Debug\netcoreapp3.1\Aula73Ref.genruntimeconfig.cache
