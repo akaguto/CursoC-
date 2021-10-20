@@ -1,0 +1,13 @@
+C:\Users\augustoargolo\source\repos\Aula75LacoForeach\Aula75LacoForeach\bin\Debug\netcoreapp3.1\Aula75LacoForeach.exe
+C:\Users\augustoargolo\source\repos\Aula75LacoForeach\Aula75LacoForeach\bin\Debug\netcoreapp3.1\Aula75LacoForeach.deps.json
+C:\Users\augustoargolo\source\repos\Aula75LacoForeach\Aula75LacoForeach\bin\Debug\netcoreapp3.1\Aula75LacoForeach.runtimeconfig.json
+C:\Users\augustoargolo\source\repos\Aula75LacoForeach\Aula75LacoForeach\bin\Debug\netcoreapp3.1\Aula75LacoForeach.runtimeconfig.dev.json
+C:\Users\augustoargolo\source\repos\Aula75LacoForeach\Aula75LacoForeach\bin\Debug\netcoreapp3.1\Aula75LacoForeach.dll
+C:\Users\augustoargolo\source\repos\Aula75LacoForeach\Aula75LacoForeach\bin\Debug\netcoreapp3.1\Aula75LacoForeach.pdb
+C:\Users\augustoargolo\source\repos\Aula75LacoForeach\Aula75LacoForeach\obj\Debug\netcoreapp3.1\Aula75LacoForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\augustoargolo\source\repos\Aula75LacoForeach\Aula75LacoForeach\obj\Debug\netcoreapp3.1\Aula75LacoForeach.AssemblyInfoInputs.cache
+C:\Users\augustoargolo\source\repos\Aula75LacoForeach\Aula75LacoForeach\obj\Debug\netcoreapp3.1\Aula75LacoForeach.AssemblyInfo.cs
+C:\Users\augustoargolo\source\repos\Aula75LacoForeach\Aula75LacoForeach\obj\Debug\netcoreapp3.1\Aula75LacoForeach.csproj.CoreCompileInputs.cache
+C:\Users\augustoargolo\source\repos\Aula75LacoForeach\Aula75LacoForeach\obj\Debug\netcoreapp3.1\Aula75LacoForeach.dll
+C:\Users\augustoargolo\source\repos\Aula75LacoForeach\Aula75LacoForeach\obj\Debug\netcoreapp3.1\Aula75LacoForeach.pdb
+C:\Users\augustoargolo\source\repos\Aula75LacoForeach\Aula75LacoForeach\obj\Debug\netcoreapp3.1\Aula75LacoForeach.genruntimeconfig.cache
