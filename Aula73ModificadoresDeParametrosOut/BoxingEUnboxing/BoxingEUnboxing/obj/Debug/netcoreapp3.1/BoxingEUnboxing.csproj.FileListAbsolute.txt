@@ -1,0 +1,14 @@
+C:\CursoDotNet\CursoC-\Aula73ModificadoresDeParametrosOut\BoxingEUnboxing\BoxingEUnboxing\bin\Debug\netcoreapp3.1\BoxingEUnboxing.exe
+C:\CursoDotNet\CursoC-\Aula73ModificadoresDeParametrosOut\BoxingEUnboxing\BoxingEUnboxing\bin\Debug\netcoreapp3.1\BoxingEUnboxing.deps.json
+C:\CursoDotNet\CursoC-\Aula73ModificadoresDeParametrosOut\BoxingEUnboxing\BoxingEUnboxing\bin\Debug\netcoreapp3.1\BoxingEUnboxing.runtimeconfig.json
+C:\CursoDotNet\CursoC-\Aula73ModificadoresDeParametrosOut\BoxingEUnboxing\BoxingEUnboxing\bin\Debug\netcoreapp3.1\BoxingEUnboxing.runtimeconfig.dev.json
+C:\CursoDotNet\CursoC-\Aula73ModificadoresDeParametrosOut\BoxingEUnboxing\BoxingEUnboxing\bin\Debug\netcoreapp3.1\BoxingEUnboxing.dll
+C:\CursoDotNet\CursoC-\Aula73ModificadoresDeParametrosOut\BoxingEUnboxing\BoxingEUnboxing\bin\Debug\netcoreapp3.1\BoxingEUnboxing.pdb
+C:\CursoDotNet\CursoC-\Aula73ModificadoresDeParametrosOut\BoxingEUnboxing\BoxingEUnboxing\obj\Debug\netcoreapp3.1\BoxingEUnboxing.csproj.AssemblyReference.cache
+C:\CursoDotNet\CursoC-\Aula73ModificadoresDeParametrosOut\BoxingEUnboxing\BoxingEUnboxing\obj\Debug\netcoreapp3.1\BoxingEUnboxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoDotNet\CursoC-\Aula73ModificadoresDeParametrosOut\BoxingEUnboxing\BoxingEUnboxing\obj\Debug\netcoreapp3.1\BoxingEUnboxing.AssemblyInfoInputs.cache
+C:\CursoDotNet\CursoC-\Aula73ModificadoresDeParametrosOut\BoxingEUnboxing\BoxingEUnboxing\obj\Debug\netcoreapp3.1\BoxingEUnboxing.AssemblyInfo.cs
+C:\CursoDotNet\CursoC-\Aula73ModificadoresDeParametrosOut\BoxingEUnboxing\BoxingEUnboxing\obj\Debug\netcoreapp3.1\BoxingEUnboxing.csproj.CoreCompileInputs.cache
+C:\CursoDotNet\CursoC-\Aula73ModificadoresDeParametrosOut\BoxingEUnboxing\BoxingEUnboxing\obj\Debug\netcoreapp3.1\BoxingEUnboxing.dll
+C:\CursoDotNet\CursoC-\Aula73ModificadoresDeParametrosOut\BoxingEUnboxing\BoxingEUnboxing\obj\Debug\netcoreapp3.1\BoxingEUnboxing.pdb
+C:\CursoDotNet\CursoC-\Aula73ModificadoresDeParametrosOut\BoxingEUnboxing\BoxingEUnboxing\obj\Debug\netcoreapp3.1\BoxingEUnboxing.genruntimeconfig.cache
