@@ -1,0 +1,14 @@
+C:\CursoDotNet\CursoC-\Aula78ExercicioList\Aula78ExercicioList\Aula78ExercicioList\obj\Debug\netcoreapp3.1\Aula78ExercicioList.csproj.AssemblyReference.cache
+C:\CursoDotNet\CursoC-\Aula78ExercicioList\Aula78ExercicioList\Aula78ExercicioList\obj\Debug\netcoreapp3.1\Aula78ExercicioList.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoDotNet\CursoC-\Aula78ExercicioList\Aula78ExercicioList\Aula78ExercicioList\obj\Debug\netcoreapp3.1\Aula78ExercicioList.AssemblyInfoInputs.cache
+C:\CursoDotNet\CursoC-\Aula78ExercicioList\Aula78ExercicioList\Aula78ExercicioList\obj\Debug\netcoreapp3.1\Aula78ExercicioList.AssemblyInfo.cs
+C:\CursoDotNet\CursoC-\Aula78ExercicioList\Aula78ExercicioList\Aula78ExercicioList\obj\Debug\netcoreapp3.1\Aula78ExercicioList.csproj.CoreCompileInputs.cache
+C:\CursoDotNet\CursoC-\Aula78ExercicioList\Aula78ExercicioList\Aula78ExercicioList\bin\Debug\netcoreapp3.1\Aula78ExercicioList.exe
+C:\CursoDotNet\CursoC-\Aula78ExercicioList\Aula78ExercicioList\Aula78ExercicioList\bin\Debug\netcoreapp3.1\Aula78ExercicioList.deps.json
+C:\CursoDotNet\CursoC-\Aula78ExercicioList\Aula78ExercicioList\Aula78ExercicioList\bin\Debug\netcoreapp3.1\Aula78ExercicioList.runtimeconfig.json
+C:\CursoDotNet\CursoC-\Aula78ExercicioList\Aula78ExercicioList\Aula78ExercicioList\bin\Debug\netcoreapp3.1\Aula78ExercicioList.runtimeconfig.dev.json
+C:\CursoDotNet\CursoC-\Aula78ExercicioList\Aula78ExercicioList\Aula78ExercicioList\bin\Debug\netcoreapp3.1\Aula78ExercicioList.dll
+C:\CursoDotNet\CursoC-\Aula78ExercicioList\Aula78ExercicioList\Aula78ExercicioList\bin\Debug\netcoreapp3.1\Aula78ExercicioList.pdb
+C:\CursoDotNet\CursoC-\Aula78ExercicioList\Aula78ExercicioList\Aula78ExercicioList\obj\Debug\netcoreapp3.1\Aula78ExercicioList.dll
+C:\CursoDotNet\CursoC-\Aula78ExercicioList\Aula78ExercicioList\Aula78ExercicioList\obj\Debug\netcoreapp3.1\Aula78ExercicioList.pdb
+C:\CursoDotNet\CursoC-\Aula78ExercicioList\Aula78ExercicioList\Aula78ExercicioList\obj\Debug\netcoreapp3.1\Aula78ExercicioList.genruntimeconfig.cache
