@@ -1,0 +1,14 @@
+C:\CursoDotNet\CursoC-\Aula80ExercicioMatrizes\Aula80ExercicioMatrizes\Aula80ExercicioMatrizes\bin\Debug\netcoreapp3.1\Aula80ExercicioMatrizes.exe
+C:\CursoDotNet\CursoC-\Aula80ExercicioMatrizes\Aula80ExercicioMatrizes\Aula80ExercicioMatrizes\bin\Debug\netcoreapp3.1\Aula80ExercicioMatrizes.deps.json
+C:\CursoDotNet\CursoC-\Aula80ExercicioMatrizes\Aula80ExercicioMatrizes\Aula80ExercicioMatrizes\bin\Debug\netcoreapp3.1\Aula80ExercicioMatrizes.runtimeconfig.json
+C:\CursoDotNet\CursoC-\Aula80ExercicioMatrizes\Aula80ExercicioMatrizes\Aula80ExercicioMatrizes\bin\Debug\netcoreapp3.1\Aula80ExercicioMatrizes.runtimeconfig.dev.json
+C:\CursoDotNet\CursoC-\Aula80ExercicioMatrizes\Aula80ExercicioMatrizes\Aula80ExercicioMatrizes\bin\Debug\netcoreapp3.1\Aula80ExercicioMatrizes.dll
+C:\CursoDotNet\CursoC-\Aula80ExercicioMatrizes\Aula80ExercicioMatrizes\Aula80ExercicioMatrizes\bin\Debug\netcoreapp3.1\Aula80ExercicioMatrizes.pdb
+C:\CursoDotNet\CursoC-\Aula80ExercicioMatrizes\Aula80ExercicioMatrizes\Aula80ExercicioMatrizes\obj\Debug\netcoreapp3.1\Aula80ExercicioMatrizes.csproj.AssemblyReference.cache
+C:\CursoDotNet\CursoC-\Aula80ExercicioMatrizes\Aula80ExercicioMatrizes\Aula80ExercicioMatrizes\obj\Debug\netcoreapp3.1\Aula80ExercicioMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoDotNet\CursoC-\Aula80ExercicioMatrizes\Aula80ExercicioMatrizes\Aula80ExercicioMatrizes\obj\Debug\netcoreapp3.1\Aula80ExercicioMatrizes.AssemblyInfoInputs.cache
+C:\CursoDotNet\CursoC-\Aula80ExercicioMatrizes\Aula80ExercicioMatrizes\Aula80ExercicioMatrizes\obj\Debug\netcoreapp3.1\Aula80ExercicioMatrizes.AssemblyInfo.cs
+C:\CursoDotNet\CursoC-\Aula80ExercicioMatrizes\Aula80ExercicioMatrizes\Aula80ExercicioMatrizes\obj\Debug\netcoreapp3.1\Aula80ExercicioMatrizes.csproj.CoreCompileInputs.cache
+C:\CursoDotNet\CursoC-\Aula80ExercicioMatrizes\Aula80ExercicioMatrizes\Aula80ExercicioMatrizes\obj\Debug\netcoreapp3.1\Aula80ExercicioMatrizes.dll
+C:\CursoDotNet\CursoC-\Aula80ExercicioMatrizes\Aula80ExercicioMatrizes\Aula80ExercicioMatrizes\obj\Debug\netcoreapp3.1\Aula80ExercicioMatrizes.pdb
+C:\CursoDotNet\CursoC-\Aula80ExercicioMatrizes\Aula80ExercicioMatrizes\Aula80ExercicioMatrizes\obj\Debug\netcoreapp3.1\Aula80ExercicioMatrizes.genruntimeconfig.cache
