@@ -1,0 +1,14 @@
+C:\CursoDotNet\CursoC-\Aula89DateTime\Aula90TimeSpan\Aula90TimeSpan\bin\Debug\netcoreapp3.1\Aula90TimeSpan.exe
+C:\CursoDotNet\CursoC-\Aula89DateTime\Aula90TimeSpan\Aula90TimeSpan\bin\Debug\netcoreapp3.1\Aula90TimeSpan.deps.json
+C:\CursoDotNet\CursoC-\Aula89DateTime\Aula90TimeSpan\Aula90TimeSpan\bin\Debug\netcoreapp3.1\Aula90TimeSpan.runtimeconfig.json
+C:\CursoDotNet\CursoC-\Aula89DateTime\Aula90TimeSpan\Aula90TimeSpan\bin\Debug\netcoreapp3.1\Aula90TimeSpan.runtimeconfig.dev.json
+C:\CursoDotNet\CursoC-\Aula89DateTime\Aula90TimeSpan\Aula90TimeSpan\bin\Debug\netcoreapp3.1\Aula90TimeSpan.dll
+C:\CursoDotNet\CursoC-\Aula89DateTime\Aula90TimeSpan\Aula90TimeSpan\bin\Debug\netcoreapp3.1\Aula90TimeSpan.pdb
+C:\CursoDotNet\CursoC-\Aula89DateTime\Aula90TimeSpan\Aula90TimeSpan\obj\Debug\netcoreapp3.1\Aula90TimeSpan.csproj.AssemblyReference.cache
+C:\CursoDotNet\CursoC-\Aula89DateTime\Aula90TimeSpan\Aula90TimeSpan\obj\Debug\netcoreapp3.1\Aula90TimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoDotNet\CursoC-\Aula89DateTime\Aula90TimeSpan\Aula90TimeSpan\obj\Debug\netcoreapp3.1\Aula90TimeSpan.AssemblyInfoInputs.cache
+C:\CursoDotNet\CursoC-\Aula89DateTime\Aula90TimeSpan\Aula90TimeSpan\obj\Debug\netcoreapp3.1\Aula90TimeSpan.AssemblyInfo.cs
+C:\CursoDotNet\CursoC-\Aula89DateTime\Aula90TimeSpan\Aula90TimeSpan\obj\Debug\netcoreapp3.1\Aula90TimeSpan.csproj.CoreCompileInputs.cache
+C:\CursoDotNet\CursoC-\Aula89DateTime\Aula90TimeSpan\Aula90TimeSpan\obj\Debug\netcoreapp3.1\Aula90TimeSpan.dll
+C:\CursoDotNet\CursoC-\Aula89DateTime\Aula90TimeSpan\Aula90TimeSpan\obj\Debug\netcoreapp3.1\Aula90TimeSpan.pdb
+C:\CursoDotNet\CursoC-\Aula89DateTime\Aula90TimeSpan\Aula90TimeSpan\obj\Debug\netcoreapp3.1\Aula90TimeSpan.genruntimeconfig.cache
