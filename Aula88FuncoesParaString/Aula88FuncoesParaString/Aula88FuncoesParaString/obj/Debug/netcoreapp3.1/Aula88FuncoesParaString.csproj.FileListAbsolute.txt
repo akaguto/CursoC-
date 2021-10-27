@@ -1,0 +1,14 @@
+C:\CursoDotNet\CursoC-\Aula88FuncoesParaString\Aula88FuncoesParaString\Aula88FuncoesParaString\bin\Debug\netcoreapp3.1\Aula88FuncoesParaString.exe
+C:\CursoDotNet\CursoC-\Aula88FuncoesParaString\Aula88FuncoesParaString\Aula88FuncoesParaString\bin\Debug\netcoreapp3.1\Aula88FuncoesParaString.deps.json
+C:\CursoDotNet\CursoC-\Aula88FuncoesParaString\Aula88FuncoesParaString\Aula88FuncoesParaString\bin\Debug\netcoreapp3.1\Aula88FuncoesParaString.runtimeconfig.json
+C:\CursoDotNet\CursoC-\Aula88FuncoesParaString\Aula88FuncoesParaString\Aula88FuncoesParaString\bin\Debug\netcoreapp3.1\Aula88FuncoesParaString.runtimeconfig.dev.json
+C:\CursoDotNet\CursoC-\Aula88FuncoesParaString\Aula88FuncoesParaString\Aula88FuncoesParaString\bin\Debug\netcoreapp3.1\Aula88FuncoesParaString.dll
+C:\CursoDotNet\CursoC-\Aula88FuncoesParaString\Aula88FuncoesParaString\Aula88FuncoesParaString\bin\Debug\netcoreapp3.1\Aula88FuncoesParaString.pdb
+C:\CursoDotNet\CursoC-\Aula88FuncoesParaString\Aula88FuncoesParaString\Aula88FuncoesParaString\obj\Debug\netcoreapp3.1\Aula88FuncoesParaString.csproj.AssemblyReference.cache
+C:\CursoDotNet\CursoC-\Aula88FuncoesParaString\Aula88FuncoesParaString\Aula88FuncoesParaString\obj\Debug\netcoreapp3.1\Aula88FuncoesParaString.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoDotNet\CursoC-\Aula88FuncoesParaString\Aula88FuncoesParaString\Aula88FuncoesParaString\obj\Debug\netcoreapp3.1\Aula88FuncoesParaString.AssemblyInfoInputs.cache
+C:\CursoDotNet\CursoC-\Aula88FuncoesParaString\Aula88FuncoesParaString\Aula88FuncoesParaString\obj\Debug\netcoreapp3.1\Aula88FuncoesParaString.AssemblyInfo.cs
+C:\CursoDotNet\CursoC-\Aula88FuncoesParaString\Aula88FuncoesParaString\Aula88FuncoesParaString\obj\Debug\netcoreapp3.1\Aula88FuncoesParaString.csproj.CoreCompileInputs.cache
+C:\CursoDotNet\CursoC-\Aula88FuncoesParaString\Aula88FuncoesParaString\Aula88FuncoesParaString\obj\Debug\netcoreapp3.1\Aula88FuncoesParaString.dll
+C:\CursoDotNet\CursoC-\Aula88FuncoesParaString\Aula88FuncoesParaString\Aula88FuncoesParaString\obj\Debug\netcoreapp3.1\Aula88FuncoesParaString.pdb
+C:\CursoDotNet\CursoC-\Aula88FuncoesParaString\Aula88FuncoesParaString\Aula88FuncoesParaString\obj\Debug\netcoreapp3.1\Aula88FuncoesParaString.genruntimeconfig.cache
