@@ -15,7 +15,7 @@ namespace Aula89DateTime
             DateTime d2 = new DateTime(2021, 10, 27, 14, 45, 03); //date and time. 
             Console.WriteLine(d2);
 
-            DateTime d3 = new DateTime(2021, 10, 27, 14, 45, 03, 500); //date and time with milliseconds
+            DateTime d3 = new DateTime(2021, 10, 27, 14, 45, 03, 500); //date and time with milliseconds.
             Console.WriteLine(d3);
 
             //Most Used Builders
