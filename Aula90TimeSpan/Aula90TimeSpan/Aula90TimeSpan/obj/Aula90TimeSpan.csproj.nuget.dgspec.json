@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CursoDotNet\\CursoC-\\Aula89DateTime\\Aula90TimeSpan\\Aula90TimeSpan\\Aula90TimeSpan.csproj": {}
+    "C:\\CursoDotNet\\CursoC-\\Aula90TimeSpan\\Aula90TimeSpan\\Aula90TimeSpan\\Aula90TimeSpan.csproj": {}
   },
   "projects": {
-    "C:\\CursoDotNet\\CursoC-\\Aula89DateTime\\Aula90TimeSpan\\Aula90TimeSpan\\Aula90TimeSpan.csproj": {
+    "C:\\CursoDotNet\\CursoC-\\Aula90TimeSpan\\Aula90TimeSpan\\Aula90TimeSpan\\Aula90TimeSpan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CursoDotNet\\CursoC-\\Aula89DateTime\\Aula90TimeSpan\\Aula90TimeSpan\\Aula90TimeSpan.csproj",
+        "projectUniqueName": "C:\\CursoDotNet\\CursoC-\\Aula90TimeSpan\\Aula90TimeSpan\\Aula90TimeSpan\\Aula90TimeSpan.csproj",
         "projectName": "Aula90TimeSpan",
-        "projectPath": "C:\\CursoDotNet\\CursoC-\\Aula89DateTime\\Aula90TimeSpan\\Aula90TimeSpan\\Aula90TimeSpan.csproj",
+        "projectPath": "C:\\CursoDotNet\\CursoC-\\Aula90TimeSpan\\Aula90TimeSpan\\Aula90TimeSpan\\Aula90TimeSpan.csproj",
         "packagesPath": "C:\\Users\\augustoargolo\\.nuget\\packages\\",
-        "outputPath": "C:\\CursoDotNet\\CursoC-\\Aula89DateTime\\Aula90TimeSpan\\Aula90TimeSpan\\obj\\",
+        "outputPath": "C:\\CursoDotNet\\CursoC-\\Aula90TimeSpan\\Aula90TimeSpan\\Aula90TimeSpan\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

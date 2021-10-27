@@ -20,22 +20,22 @@ namespace Aula90TimeSpan
 
             //Methods From
 
-            TimeSpan t1 = TimeSpan.FromDays(1.5); //creates a timespan equivalent to 1.5 days
+            TimeSpan t1 = TimeSpan.FromDays(1.5); //creates a timespan equivalent to 1.5 days.
             Console.WriteLine("TimeSpan equivalent to 1.5 days: " + t1);
 
-            TimeSpan t2 = TimeSpan.FromHours(1.5); //creates a timespan equivalent to 1.5 hours
+            TimeSpan t2 = TimeSpan.FromHours(1.5); //creates a timespan equivalent to 1.5 hours.
             Console.WriteLine("TimeSpan equivalent to 1.5 Hours: " + t2);
 
-            TimeSpan t3 = TimeSpan.FromMinutes(1.5); //creates a timespan equivalent to 1.5 minutes
+            TimeSpan t3 = TimeSpan.FromMinutes(1.5); //creates a timespan equivalent to 1.5 minutes.
             Console.WriteLine("TimeSpan equivalent to 1.5 Minutes: " + t3);
 
-            TimeSpan t4 = TimeSpan.FromSeconds(1.5); //creates a timespan equivalent to 1.5 seconds
+            TimeSpan t4 = TimeSpan.FromSeconds(1.5); //creates a timespan equivalent to 1.5 seconds.
             Console.WriteLine("TimeSpan equivalent to 1.5 Seconds: " + t4);
 
-            TimeSpan t5 = TimeSpan.FromMilliseconds(1.5); //creates a timespan equivalent to 1.5 Milliseconds
+            TimeSpan t5 = TimeSpan.FromMilliseconds(1.5); //creates a timespan equivalent to 1.5 Milliseconds.
             Console.WriteLine("TimeSpan equivalent to 1.5 Milliseconds: " + t5);
 
-            TimeSpan t6 = TimeSpan.FromTicks(900000000L); //creates a timespan equivalent to 900.000.000 ticks
+            TimeSpan t6 = TimeSpan.FromTicks(900000000L); //creates a timespan equivalent to 900.000.000 ticks.
             Console.WriteLine("TimeSpan equivalent to 900.000.000 ticks: " + t6);
         }
     }
