@@ -1,0 +1,14 @@
+C:\CursoDotNet\CursoC-\Aula91DateTimeOperations\Aula91DateTimeOperations\Aula91DateTimeOperations\bin\Debug\netcoreapp3.1\Aula91DateTimeOperations.exe
+C:\CursoDotNet\CursoC-\Aula91DateTimeOperations\Aula91DateTimeOperations\Aula91DateTimeOperations\bin\Debug\netcoreapp3.1\Aula91DateTimeOperations.deps.json
+C:\CursoDotNet\CursoC-\Aula91DateTimeOperations\Aula91DateTimeOperations\Aula91DateTimeOperations\bin\Debug\netcoreapp3.1\Aula91DateTimeOperations.runtimeconfig.json
+C:\CursoDotNet\CursoC-\Aula91DateTimeOperations\Aula91DateTimeOperations\Aula91DateTimeOperations\bin\Debug\netcoreapp3.1\Aula91DateTimeOperations.runtimeconfig.dev.json
+C:\CursoDotNet\CursoC-\Aula91DateTimeOperations\Aula91DateTimeOperations\Aula91DateTimeOperations\bin\Debug\netcoreapp3.1\Aula91DateTimeOperations.dll
+C:\CursoDotNet\CursoC-\Aula91DateTimeOperations\Aula91DateTimeOperations\Aula91DateTimeOperations\bin\Debug\netcoreapp3.1\Aula91DateTimeOperations.pdb
+C:\CursoDotNet\CursoC-\Aula91DateTimeOperations\Aula91DateTimeOperations\Aula91DateTimeOperations\obj\Debug\netcoreapp3.1\Aula91DateTimeOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoDotNet\CursoC-\Aula91DateTimeOperations\Aula91DateTimeOperations\Aula91DateTimeOperations\obj\Debug\netcoreapp3.1\Aula91DateTimeOperations.AssemblyInfoInputs.cache
+C:\CursoDotNet\CursoC-\Aula91DateTimeOperations\Aula91DateTimeOperations\Aula91DateTimeOperations\obj\Debug\netcoreapp3.1\Aula91DateTimeOperations.AssemblyInfo.cs
+C:\CursoDotNet\CursoC-\Aula91DateTimeOperations\Aula91DateTimeOperations\Aula91DateTimeOperations\obj\Debug\netcoreapp3.1\Aula91DateTimeOperations.csproj.CoreCompileInputs.cache
+C:\CursoDotNet\CursoC-\Aula91DateTimeOperations\Aula91DateTimeOperations\Aula91DateTimeOperations\obj\Debug\netcoreapp3.1\Aula91DateTimeOperations.dll
+C:\CursoDotNet\CursoC-\Aula91DateTimeOperations\Aula91DateTimeOperations\Aula91DateTimeOperations\obj\Debug\netcoreapp3.1\Aula91DateTimeOperations.pdb
+C:\CursoDotNet\CursoC-\Aula91DateTimeOperations\Aula91DateTimeOperations\Aula91DateTimeOperations\obj\Debug\netcoreapp3.1\Aula91DateTimeOperations.genruntimeconfig.cache
+C:\CursoDotNet\CursoC-\Aula91DateTimeOperations\Aula91DateTimeOperations\Aula91DateTimeOperations\obj\Debug\netcoreapp3.1\Aula91DateTimeOperations.csproj.AssemblyReference.cache
