@@ -1,0 +1,14 @@
+C:\CursoDotNet\CursoC-\Aula92TimeSpanOperations\Aula92TimeSpanOperations\Aula92TimeSpanOperations\obj\Debug\netcoreapp3.1\Aula92TimeSpanOperations.csproj.AssemblyReference.cache
+C:\CursoDotNet\CursoC-\Aula92TimeSpanOperations\Aula92TimeSpanOperations\Aula92TimeSpanOperations\obj\Debug\netcoreapp3.1\Aula92TimeSpanOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoDotNet\CursoC-\Aula92TimeSpanOperations\Aula92TimeSpanOperations\Aula92TimeSpanOperations\obj\Debug\netcoreapp3.1\Aula92TimeSpanOperations.AssemblyInfoInputs.cache
+C:\CursoDotNet\CursoC-\Aula92TimeSpanOperations\Aula92TimeSpanOperations\Aula92TimeSpanOperations\obj\Debug\netcoreapp3.1\Aula92TimeSpanOperations.AssemblyInfo.cs
+C:\CursoDotNet\CursoC-\Aula92TimeSpanOperations\Aula92TimeSpanOperations\Aula92TimeSpanOperations\obj\Debug\netcoreapp3.1\Aula92TimeSpanOperations.csproj.CoreCompileInputs.cache
+C:\CursoDotNet\CursoC-\Aula92TimeSpanOperations\Aula92TimeSpanOperations\Aula92TimeSpanOperations\bin\Debug\netcoreapp3.1\Aula92TimeSpanOperations.exe
+C:\CursoDotNet\CursoC-\Aula92TimeSpanOperations\Aula92TimeSpanOperations\Aula92TimeSpanOperations\bin\Debug\netcoreapp3.1\Aula92TimeSpanOperations.deps.json
+C:\CursoDotNet\CursoC-\Aula92TimeSpanOperations\Aula92TimeSpanOperations\Aula92TimeSpanOperations\bin\Debug\netcoreapp3.1\Aula92TimeSpanOperations.runtimeconfig.json
+C:\CursoDotNet\CursoC-\Aula92TimeSpanOperations\Aula92TimeSpanOperations\Aula92TimeSpanOperations\bin\Debug\netcoreapp3.1\Aula92TimeSpanOperations.runtimeconfig.dev.json
+C:\CursoDotNet\CursoC-\Aula92TimeSpanOperations\Aula92TimeSpanOperations\Aula92TimeSpanOperations\bin\Debug\netcoreapp3.1\Aula92TimeSpanOperations.dll
+C:\CursoDotNet\CursoC-\Aula92TimeSpanOperations\Aula92TimeSpanOperations\Aula92TimeSpanOperations\bin\Debug\netcoreapp3.1\Aula92TimeSpanOperations.pdb
+C:\CursoDotNet\CursoC-\Aula92TimeSpanOperations\Aula92TimeSpanOperations\Aula92TimeSpanOperations\obj\Debug\netcoreapp3.1\Aula92TimeSpanOperations.dll
+C:\CursoDotNet\CursoC-\Aula92TimeSpanOperations\Aula92TimeSpanOperations\Aula92TimeSpanOperations\obj\Debug\netcoreapp3.1\Aula92TimeSpanOperations.pdb
+C:\CursoDotNet\CursoC-\Aula92TimeSpanOperations\Aula92TimeSpanOperations\Aula92TimeSpanOperations\obj\Debug\netcoreapp3.1\Aula92TimeSpanOperations.genruntimeconfig.cache
